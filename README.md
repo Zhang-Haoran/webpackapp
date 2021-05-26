@@ -1,2 +1,2 @@
 # webpackapp
-自己配置webpack的几个基本步骤
+不用create-react-app，自己配置webpack创建react app的几个基本步骤
